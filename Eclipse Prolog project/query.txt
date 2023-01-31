@@ -1,0 +1,1 @@
+cputime(Start),makespan(Model,Cost,Duration,Evaluation,Connectivity,Starts,Fins),cputime(End),Time is End-Start 
